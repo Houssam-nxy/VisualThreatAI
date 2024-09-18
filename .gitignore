@@ -30,3 +30,4 @@ Thumbs.db
 *.exe
 *.tar
 *.zip
+myenv/
