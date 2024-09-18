@@ -11,7 +11,8 @@ __pycache__/
 
 # Virtual environments
 venv/
-env/
+myenv/
+
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -22,3 +23,10 @@ env/
 # OS-generated files
 .DS_Store
 Thumbs.db
+
+# Ignore large binary files
+*.dylib
+*.bin
+*.exe
+*.tar
+*.zip
